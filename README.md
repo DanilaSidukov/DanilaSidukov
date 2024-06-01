@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am an android developer with more than half a year of experience, I have the necessary knowledge in native mobile android development, as well as basic skills in cross-platform development. In the course of my work I faced non-standard tasks, which I successfully solved using modern technologies and approaches.
+I am an android developer with over a year and a half of experience, I have the necessary knowledge in native mobile android development, as well as basic skills in cross-platform development. In the course of my work I faced non-standard tasks, which I successfully solved using modern technologies and approaches.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
