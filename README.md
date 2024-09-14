@@ -27,18 +27,19 @@ I am an android developer with over a year and a half of experience, I have the 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" width="32" />
+
           
 **Languages I speak:**<br><br>
 <img align="left" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ru.svg" height="18" width="24" />Native<br><br>
 <img align="left" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/gb.svg" height="18" width="24" />B1-B2<br><br>
 
-Notable Achievements
-📱 Created a Mobile VPN Client for Android
-📺 Developed an Android TV Application for Screen Casting
+Notable Achievements<br><br>
+📱 Created a Mobile VPN Client for Android<br><br>
+📺 Developed an Android TV Application for Screen Casting<br><br>
 
 **You can contact me:**<br><br>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" width="32"/> sidukov01@gmail.com
-<br><br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilasidukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
