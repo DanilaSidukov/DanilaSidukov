@@ -32,6 +32,10 @@ I am an android developer with over a year and a half of experience, I have the 
 <img align="left" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ru.svg" height="18" width="24" />Native<br><br>
 <img align="left" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/gb.svg" height="18" width="24" />B1-B2<br><br>
 
+Notable Achievements
+📱 Created a Mobile VPN Client for Android
+📺 Developed an Android TV Application for Screen Casting
+
 **You can contact me:**<br><br>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" width="32"/> sidukov01@gmail.com
 <br><br>
